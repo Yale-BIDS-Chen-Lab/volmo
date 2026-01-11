@@ -1,0 +1,21 @@
+# Assessment & Plan Task Settings - TEST
+# Configuration for clinical assessment and plan generation tasks
+
+task: assessment_plan
+
+# Model configuration
+model:
+  model_path: models/volmo_2b_stage_3/volmo_2b_stage_3
+  input_size: 448
+  max_num: 6
+
+# Output directory
+output_dir: volmo_evaluation_results/assessplan_test
+
+# Data paths
+data_paths:
+  test_small: data/datajsons/assessplan/test_small.json
+
+# Display names for reports
+display_names:
+  test_small: Test Small (3 cases)

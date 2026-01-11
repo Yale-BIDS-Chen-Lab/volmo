@@ -1,0 +1,49 @@
+# Binary Classification Settings
+# Configuration for yes/no (TRUE/FALSE) classification tasks
+
+task: classification_bool
+
+# Model configuration
+model:
+  model_path: models/volmo_2b_stage_3/volmo_2b_stage_3
+  input_size: 448
+  max_num: 6
+
+# Output directory
+output_dir: volmo_evaluation_results/bool
+
+# Data paths
+data_paths:
+  fives_glaucoma: data/datajsons/bool/fives_glaucoma.json
+  brset_amd: data/datajsons/bool/brset_amd.json
+  brset_dr: data/datajsons/bool/brset_dr.json
+  brset_hypertension: data/datajsons/bool/brset_hypertension.json
+  brset_icdr: data/datajsons/bool/brset_icdr.json
+  brset_nevus: data/datajsons/bool/brset_nevus.json
+  brset_macular_edema: data/datajsons/bool/brset_macular_edema.json
+  brset_myopic: data/datajsons/bool/brset_myopic.json
+  brset_drusens: data/datajsons/bool/brset_drusens.json
+  brset_hemorrhage: data/datajsons/bool/brset_hemorrhage.json
+  brset_scar: data/datajsons/bool/brset_scar.json
+  brset_occlusion: data/datajsons/bool/brset_occlusion.json
+  biobank_amd: data/datajsons/bool/biobank_amd.json
+  biobank_dr: data/datajsons/bool/biobank_dr.json
+  biobank_glaucoma: data/datajsons/bool/biobank_glaucoma.json
+
+# Display names for reports
+display_names:
+  fives_glaucoma: FIVES Glaucoma
+  brset_amd: BRSET AMD
+  brset_dr: BRSET DR
+  brset_hypertension: BRSET Hypertension
+  brset_icdr: BRSET Increased Cup-Disc Ratio
+  brset_nevus: BRSET Nevus
+  brset_macular_edema: BRSET Macular Edema
+  brset_myopic: BRSET Myopic Fundus Changes
+  brset_drusens: BRSET Retinal Drusens
+  brset_hemorrhage: BRSET Retinal Hemorrhage
+  brset_scar: BRSET Retinal Scar
+  brset_occlusion: BRSET Retinal Vascular Occlusion
+  biobank_amd: UK Biobank AMD
+  biobank_dr: UK Biobank DR
+  biobank_glaucoma: UK Biobank Glaucoma

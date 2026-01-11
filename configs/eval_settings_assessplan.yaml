@@ -1,0 +1,21 @@
+# Assessment & Plan Task Settings
+# Configuration for clinical assessment and plan generation tasks
+
+task: assessment_plan
+
+# Model configuration
+model:
+  model_path: models/volmo_2b_stage_3/volmo_2b_stage_3
+  input_size: 448
+  max_num: 6
+
+# Output directory
+output_dir: volmo_evaluation_results/assessplan
+
+# Data paths
+data_paths:
+  pmccasereports: data/datajsons/assessplan/pmccasereports.json
+
+# Display names for reports
+display_names:
+  pmccasereports: PMC Clinical Procedures (40 cases)

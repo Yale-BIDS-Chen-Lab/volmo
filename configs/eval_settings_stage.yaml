@@ -1,0 +1,27 @@
+# Staging Classification Settings
+# Configuration for multi-class staging tasks (0-4 grades)
+
+task: stage
+
+# Model configuration
+model:
+  model_path: models/volmo_2b_stage_3/volmo_2b_stage_3
+  input_size: 448
+  max_num: 6
+
+# Output directory
+output_dir: volmo_evaluation_results/stage
+
+# Data paths
+data_paths:
+  eyepacs: /gpfs/radev/home/ehl33/ehl33/LVLM/internvl/EyePACS/test.json
+  mhstage: data/datajsons/stage/mhstage.json
+  sydney_innovation: /gpfs/radev/home/ehl33/ehl33/LVLM/internvl/sydney-innovation/test.json
+  sust: /gpfs/radev/home/ehl33/ehl33/LVLM/internvl/sustech/test.json
+
+# Display names for reports
+display_names:
+  eyepacs: EyePACS
+  mhstage: MH Stage
+  sydney_innovation: Sydney Innovation
+  sust: SuSTech SYSU

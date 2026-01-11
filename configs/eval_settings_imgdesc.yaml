@@ -1,0 +1,21 @@
+# Image Description Task Settings
+# Configuration for image description generation tasks
+
+task: image_description
+
+# Model configuration
+model:
+  model_path: models/volmo_2b_stage_3/volmo_2b_stage_3
+  input_size: 448
+  max_num: 6
+
+# Output directory
+output_dir: volmo_evaluation_results/imgdesc
+
+# Data paths
+data_paths:
+  pmcserina: data/datajsons/imgdesc/pmcserina.json
+
+# Display names for reports
+display_names:
+  pmcserina: PMC Serina
