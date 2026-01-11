@@ -84,6 +84,10 @@ class TaskEvaluator:
             'EXP_ID': f"INFERENCE_{dataset_name}_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
         }
         
+        # Add seed only if provided in settings
+        if 'seed' in self.settings:
+            config['SEED'] = self.settings['seed']
+        
         config_path = dataset_dir / "inference_config.yaml"
         with open(config_path, 'w') as f:
             yaml.dump(config, f)

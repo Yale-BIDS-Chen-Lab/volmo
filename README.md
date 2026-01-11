@@ -26,6 +26,7 @@ A comprehensive evaluation pipeline for the **VOLMO** model, designed to assess 
 - 🎯 **GPU Optimized** - Efficient inference with configurable GPU allocation
 - 📈 **Comprehensive Metrics** - Accuracy, BERTScore F1, SBERT similarity
 - 📝 **Detailed Reports** - Timestamped markdown reports with results breakdown
+- 📦 **Self-Contained** - Includes InternVL model code (no external dependencies)
 
 ---
 
@@ -92,7 +93,15 @@ volmo_repo/
 │       └── sustech/               # SuSTech (469MB)
 │
 ├── 🤖 models/                      # Model checkpoints
-│   └── volmo_2b_stage_3/          # VOLMO 2B Stage 3 (symlinked)
+│   └── volmo_2b_stage_3/
+│       └── volmo_2b_stage_3/       # VOLMO 2B with InternVL code
+│           ├── modeling_internvl_chat.py  # InternVL chat model
+│           ├── modeling_intern_vit.py     # Vision transformer
+│           ├── modeling_internlm2.py      # Language model
+│           ├── configuration_*.py         # Model configs
+│           ├── tokenization_internlm2.py  # Tokenizer
+│           ├── conversation.py            # Chat templates
+│           └── model.safetensors          # Model weights (30GB)
 │
 ├── 🎨 assets/                      # Media resources
 │   └── volmo_logo.png             # Project logo
@@ -321,17 +330,34 @@ For questions or collaboration inquiries, please contact the research team.
 
 ## 🎁 Self-Contained Repository
 
-This repository is **fully self-contained** with all necessary data:
-- ✅ **24,112 images** (22GB) copied to `data/images/`
-- ✅ All JSON dataset files updated with local paths
+This repository is **fully self-contained** with all necessary components:
+
+### 📊 Data (22GB)
+- ✅ **24,112 images** organized in `data/images/`
+- ✅ All JSON dataset files with local paths
 - ✅ No external dependencies on shared datasets
-- ✅ Organized by source: BRSET, FIVES, EyePACS, Sydney, SuSTech, OIMHS, PMC-Eyes, Bento
-- ✅ Ready to distribute and run anywhere
+- ✅ Sources: BRSET, FIVES, EyePACS, Sydney, SuSTech, OIMHS, PMC-Eyes, Bento
+
+### 🤖 Model (30GB)
+- ✅ **InternVL model code** included in `models/volmo_2b_stage_3/volmo_2b_stage_3/`
+- ✅ Complete model implementation (vision + language)
+- ✅ Model weights (model.safetensors)
+- ✅ No need to download from external sources
+- ✅ Uses `trust_remote_code=True` for custom model loading
+
+### 🔧 Framework
+- ✅ Custom inference runner
+- ✅ Task-specific evaluators
+- ✅ Configuration management
+- ✅ Automated reporting
 
 To verify data integrity:
 ```bash
 python scripts/copy_images_and_update_paths.py --dry-run
 ```
+
+**Total Size:** ~52GB (30GB model + 22GB data)  
+**Ready to distribute and run anywhere!**
 
 ---
 
