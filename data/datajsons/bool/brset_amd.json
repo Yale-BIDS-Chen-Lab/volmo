@@ -1,0 +1,758 @@
+[
+  {
+    "image_paths": [
+      "data/images/brset/img10077/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00726/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14512/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07057/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12867/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02989/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09050/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02057/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15461/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11357/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02233/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img16164/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03187/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img16136/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07402/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10117/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05385/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03484/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06794/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14906/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01334/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12380/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13225/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00877/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07862/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01092/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09989/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11831/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15942/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04782/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04127/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12545/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14898/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13113/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01446/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03506/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14277/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11230/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08564/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13580/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06976/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10201/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02761/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09315/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15605/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06184/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13434/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03039/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03438/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02863/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04552/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06784/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00629/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06121/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10078/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12544/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05393/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02066/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07427/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13136/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12187/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09988/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07802/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08423/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09689/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06501/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05663/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08202/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00562/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14447/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01432/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10478/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01301/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01665/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13248/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15850/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03889/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06378/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05762/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13483/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13066/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13297/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09290/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01577/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09927/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10674/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04304/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10395/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08017/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10949/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00817/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06564/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14921/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12799/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12179/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01972/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img16098/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15990/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15763/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14390/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08499/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02466/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13983/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13871/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06389/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13848/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00582/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02581/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  }
+]

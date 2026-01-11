@@ -1,0 +1,3096 @@
+[
+  {
+    "image_paths": [
+      "data/images/brset/img10481/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02929/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04298/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15998/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10326/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06103/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02853/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06120/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13030/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03755/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11611/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12990/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05930/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14381/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07643/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11891/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08642/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15147/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13488/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10139/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09452/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08655/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06012/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03354/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08048/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13454/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01927/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14027/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03495/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11870/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01405/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15996/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02266/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06417/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08184/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00168/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06267/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img16164/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07680/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04177/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00329/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07803/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13457/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12044/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04140/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02305/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05446/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13996/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02306/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12445/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01001/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01691/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14740/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07061/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01072/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01071/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03440/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03020/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06053/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03726/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03896/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09083/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05465/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11833/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09617/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09403/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12344/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img16136/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02858/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07705/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14014/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03178/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05454/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13973/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04340/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00191/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05090/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00022/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10207/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14088/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13877/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12480/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img16088/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12385/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09183/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08029/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12547/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00082/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07918/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14189/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02100/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03777/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04640/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11524/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05560/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10298/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13177/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04325/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03905/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09705/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01302/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06158/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01796/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09408/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07404/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02414/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08297/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04446/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img16262/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15950/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01818/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07131/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02583/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07048/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02859/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12136/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09845/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00712/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11513/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09397/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img16074/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08446/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13625/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10110/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15527/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01891/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13611/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05946/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10488/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04583/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13580/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14138/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01962/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03404/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11628/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11253/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13113/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05874/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04628/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04055/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13600/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11216/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00088/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02745/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02933/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10397/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06139/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02989/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03622/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01972/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02735/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13288/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02233/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03543/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08698/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07585/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12714/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13632/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14170/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img16176/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img16231/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08128/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02106/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05894/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09644/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00565/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02707/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03002/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14210/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10313/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10788/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08497/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10678/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12833/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07325/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00711/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10923/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14382/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00562/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03637/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15756/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02284/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14423/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15942/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08156/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15500/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07109/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07804/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09434/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10918/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00070/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07344/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15619/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10786/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03853/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07619/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13003/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09114/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07547/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05434/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04315/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08002/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00414/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07802/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00307/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11034/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00937/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03050/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03346/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07466/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14116/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02662/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02783/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15006/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09742/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08331/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05888/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13455/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11222/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10218/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00074/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13146/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13856/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10100/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06767/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12722/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09645/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07241/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01053/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06888/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02951/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15178/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12172/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04181/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01444/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06416/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10198/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01856/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12017/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02747/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09018/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15090/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04119/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07368/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01885/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13651/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07672/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01086/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03950/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13443/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07693/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09843/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08651/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01243/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02362/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02625/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11963/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02300/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11650/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02952/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00844/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00321/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12040/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12991/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14339/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01181/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08335/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09050/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07427/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15382/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11112/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02755/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03487/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04385/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04639/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03048/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03214/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10640/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03592/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02795/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10561/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10703/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15955/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12523/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06911/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06840/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00679/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07053/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03187/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12168/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13012/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15314/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14033/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05775/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08101/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06848/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15999/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12473/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00558/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01379/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10124/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12416/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14750/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15773/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14523/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03434/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04067/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05295/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11138/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img16243/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01101/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15881/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00129/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15676/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11886/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00297/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08607/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02874/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14899/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06899/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13547/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06154/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03541/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03432/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02820/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12994/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10182/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15277/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11506/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00891/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09023/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04491/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11131/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07789/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04473/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00128/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06285/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14921/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12964/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14244/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14534/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14064/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09449/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03537/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07710/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09140/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05724/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12811/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02497/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09160/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03308/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07205/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01940/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09838/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10819/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10414/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15608/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13127/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15334/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01884/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14673/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01011/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00026/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14053/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07087/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11045/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06651/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06350/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07826/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03248/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01347/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10835/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14693/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10785/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07005/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07764/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03691/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00393/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02371/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img16210/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02352/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12514/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14553/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15262/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15219/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00192/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09152/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02031/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03138/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01588/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03387/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07222/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00318/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13974/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07350/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07479/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10353/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13294/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10757/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02567/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05790/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03075/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07015/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11373/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10784/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15995/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04138/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01589/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08646/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09473/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04388/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05792/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12409/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05873/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14015/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03578/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01434/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01226/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10009/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01969/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10347/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05113/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04364/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05848/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15581/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07665/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04230/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13601/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04455/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04033/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11014/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10605/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09097/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02624/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08658/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03102/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13439/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00092/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08223/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02207/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08026/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08106/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows diabetic retinopathy. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  }
+]

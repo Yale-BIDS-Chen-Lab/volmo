@@ -1,0 +1,394 @@
+[
+  {
+    "image_paths": [
+      "data/images/brset/img02615/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14050/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06103/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15250/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14451/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04432/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10117/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03283/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09050/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img06353/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09288/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10147/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07761/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13457/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01401/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13855/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13181/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00639/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15303/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02194/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03262/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12598/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img16254/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13595/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08409/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14305/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00313/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08163/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01913/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img05048/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08558/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08593/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03280/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08847/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img08862/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img15668/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00571/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11683/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03164/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10998/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04572/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01858/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img01196/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13453/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img09209/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img00337/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img13989/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img14799/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img10368/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img02399/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img04940/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img03565/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12349/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img12490/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img11392/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/brset/img07040/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows choroidal nevus. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  }
+]

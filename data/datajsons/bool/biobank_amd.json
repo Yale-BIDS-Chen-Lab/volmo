@@ -1,0 +1,2802 @@
+[
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4598088_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1572630_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1128840_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5152237_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2488106_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2293097_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2198873_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1726875_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5142806_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1501103_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4781240_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5145374_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4069137_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1441025_21016_2_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4313963_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3294325_21016_2_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1148025_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1143250_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1465193_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2174101_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2234892_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3812977_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4394618_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1136723_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4133661_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2091111_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4992359_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4663000_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4903026_21016_0_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5920471_21016_2_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3286721_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2179728_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3457494_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4294393_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2501160_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5546199_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1024116_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5222248_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5519118_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1884096_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4885581_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5901352_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2873153_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5729278_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1864947_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2156038_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5254747_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2856754_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5934059_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1451290_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3080216_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1485392_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2961655_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2890512_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4409875_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2400951_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5542212_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1210517_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5105251_21016_2_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3528043_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3994971_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1645952_21016_2_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3077886_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1372221_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4102876_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2579742_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4556736_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4495547_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2986013_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4218626_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2044334_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4925824_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1308385_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1222223_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4702662_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2218067_21016_2_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5305469_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2565471_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1381642_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5843690_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1496809_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5613282_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5659614_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3496939_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4591835_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2994219_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1892560_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3034855_21016_2_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2950201_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2131055_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4761056_21016_2_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2416896_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5803260_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4811653_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4651957_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1328243_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4445332_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5457008_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1931999_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3986683_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5100783_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5956876_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1893931_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3561840_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3078533_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2438019_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4603011_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4841282_21016_2_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4116415_21016_2_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2175181_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4818533_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2798916_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1258258_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2218395_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5897907_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2714983_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3183566_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2423665_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1298407_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2132270_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4153764_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5007528_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2714925_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2133162_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4677476_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3779608_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3143461_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4622067_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3519974_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1798337_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2401048_21016_2_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5946738_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2296288_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5830444_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4000377_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2400736_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4255388_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3333297_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4240355_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3178853_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5703865_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5271696_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1719093_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3829763_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3749543_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1448978_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1229878_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1538206_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1849144_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4553183_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5700623_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4797307_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5674536_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4348943_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1288627_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3096340_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3085486_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5044173_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3596390_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3969371_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2322882_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4105825_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1068944_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5070658_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1582375_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4803972_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5576505_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5398700_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4614313_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5666210_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/6013428_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5728434_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3377471_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1878489_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5459944_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1012300_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5927232_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3787695_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1980355_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3814269_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1512709_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4547829_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2612257_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/6025004_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5685862_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5372371_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5821590_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/5088827_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3038362_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1890171_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4002987_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3971070_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1002497_21016_2_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4374955_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2792781_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/3716110_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/1096678_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/4927047_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2987215_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye/2659940_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1014215_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1002643_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1014250_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1048475_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1032306_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1051742_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1004119_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1004706_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1041188_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1027509_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1044818_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1003431_21016_2_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1042657_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1030033_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1042907_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1006784_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1006936_21016_2_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1037313_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1026908_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1052886_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1031259_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1009256_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1015975_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1029818_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1048296_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1034495_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1024245_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1012292_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1051280_21016_2_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1030476_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1042383_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1041133_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1038887_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1011598_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1039934_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1018401_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1022860_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1037925_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1036912_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1021510_21016_2_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1024918_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1049663_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1029220_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1025479_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1006567_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1014983_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1013379_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1002917_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1019758_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1001080_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1033322_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1031361_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1013568_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1051213_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1012969_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1000450_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1003598_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1039630_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1035674_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1002705_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1013549_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1003365_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1050104_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1001508_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1047745_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1019488_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1050700_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1029043_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1014117_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1016583_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1037812_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1052731_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1012567_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1051760_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1007195_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1040479_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1048668_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1032512_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1032927_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1026828_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1014380_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1043610_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1049622_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1044629_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1023452_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1010690_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1005047_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1005148_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1037282_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1024565_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1020472_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1051891_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1023618_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1026658_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1048012_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1040984_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1002572_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1037997_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1037132_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1036566_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1005169_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1002764_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1023298_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1040949_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1019775_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1044259_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1047844_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1005935_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1015004_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1010848_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1049127_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1030229_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1025371_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1007663_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1024228_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1010453_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1050263_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1026188_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1015101_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1003846_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1025011_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1044629_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1047153_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1031265_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1052938_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1002438_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1037084_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1030499_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1046134_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1000776_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1005014_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1042311_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1014117_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1009386_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1049173_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1050123_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1027190_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1012463_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1023136_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1050577_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1009133_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1021741_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1000153_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1022488_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1052068_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1043582_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1049453_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1025724_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1017209_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1048815_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1039218_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1041159_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1046085_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1031478_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1037352_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1040150_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1027525_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1008757_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1048053_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1017540_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1012702_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1052974_21016_2_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1033023_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1041427_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1030526_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1048458_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1041908_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1018500_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1002639_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1047081_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1033216_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1026994_21016_3_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1028494_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1029972_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1008812_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1044686_21016_0_1.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1028800_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1004296_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1010565_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1052620_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1033682_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1050515_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1038093_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1014051_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1023309_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1006513_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1032462_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1014704_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1033004_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1033548_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1001905_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1035078_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1004355_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1024061_21016_1_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1037266_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1033152_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1032115_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1029528_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1018721_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/biobank/biobank_amd/AMD_right_eye_negative/1015859_21016_0_0.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows age-related macular degeneration (AMD). Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  }
+]

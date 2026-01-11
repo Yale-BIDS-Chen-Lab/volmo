@@ -1,0 +1,422 @@
+[
+  {
+    "image_paths": [
+      "data/images/fives/418/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/374/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/354/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/438/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/337/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/372/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/338/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/423/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/333/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/319/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/320/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/341/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/324/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/365/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/448/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/314/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/306/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/408/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/417/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/431/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/325/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/321/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/302/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/402/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/364/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/356/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/428/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/427/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/409/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/445/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "TRUE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/514/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/584/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/560/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/585/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/526/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/512/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/581/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/490/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/491/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/489/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/516/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/536/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/451/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/592/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/546/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/483/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/582/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/469/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/534/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/481/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/570/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/583/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/523/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/574/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/579/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/587/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/454/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/504/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/578/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  },
+  {
+    "image_paths": [
+      "data/images/fives/543/visualization.png"
+    ],
+    "prompt": "<image>\nThis is a colorful fundus image. Please tell me whether this image shows glaucoma. Answer in format: TRUE or FALSE.",
+    "GT": "FALSE."
+  }
+]

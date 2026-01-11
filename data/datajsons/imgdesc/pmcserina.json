@@ -1,0 +1,289 @@
+[
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9972306/12886_2023_2825_Fig1_HTML.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "A coronal MRI of the orbits with contrast and fat suppression reveals an enhancement in the right optic nerve, indicated by an arrow, while the left optic nerve shows no such enhancement, as marked by an arrowhead."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9974399/40662_2023_329_Fig1_HTML.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "Illustrated are representative eye fundus images following the dissection of ocular tissue from a control subject (a) and individuals diagnosed with COVID-19 (b–d). Image (a) depicts the ocular tissue of a control patient, which shows a slightly hyperpigmented area in the temporal section (green arrowhead in the inset). Images (b–c) display samples from COVID-19 patients, revealing drusen deposits at the boundaries of the macula (white square, inset in b), hyperpigmented regions (green arrowheads in b and c), and a small flame-shaped hemorrhage located superior to the optic nerve (blue arrow, inset in c). Additionally, mild peripapillary atrophy (b) and signs of ischemia (c) are visible. Image (d) shows the eye fundus of a COVID-19 patient without significant abnormalities. The fovea (yellow arrow, inset) and optic nerve (inset) are displayed at higher magnification. Throughout all images, choroidal vessels (appearing as white lines) are seen branching out from the periphery towards the fovea. The scale bar denotes a measurement of 500 µm (with insets measuring 250 µm)."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9974399/40662_2023_329_Fig2_HTML.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "This detailed examination of vertical sections of retinas from both control and COVID-19 patients, immunolabeled with ACE2, CRALBP, and GFAP, reveals significant structural differences. High magnification images highlight these changes, particularly in the retinas of COVID-19 patients. ACE2 protein prominently appears in Müller cells, the outer segments (OS) of cones, and the retinal pigment epithelium (RPE) in both sets of retinas. However, COVID-19 retinas exhibit diminished staining in the OS of cones and increased staining at the level of the outer nuclear layer (ONL) and the cell body. Müller cells and RPE stained with CRALBP antibodies in COVID-19 patients demonstrate disruption of the external limiting membrane (ELM), disorganized honeycomb patterns, and heightened immunoreactivity in the cell body. Additionally, there is an observable increase in astrocyte staining in COVID-19 retinas, although morphological differences in astrocytes are not distinctly noted. Unique astrocyte protrusions into the internal limiting membrane (ILM) and heightened reactive gliosis are present in COVID-19 retinas, as indicated by astrocytes in the intermediate and deep capillary plexuses."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9975123/12348_2023_324_Fig1_HTML.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "The photograph series illustrates stages of anterior uveitis in the right eye, beginning with pronounced hypopyon and a severe fibrinous reaction observed after two months of uveitis treatment (a). Subsequent images capture the eye's condition post-third ocular sampling and cataract surgery (b), followed by observations two weeks after an intraocular methotrexate injection (c), and finally, the eye's state one year from the initial presentation (d)."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9976121/10.1177_24741264221074799-fig1.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "The B-scan illustrates a dome-shaped elevation of the choroid that is nearly appositional, consistent with the presence of a choroidal hemorrhage within the suprachoroidal space."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9976157/10.1177_24741264211001679-fig1.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "Optical coherence tomography angiography of the left eye using Heidelberg Spectralis by Heidelberg Engineering reveals the presence of superior parafoveal capillary telangiectasias within the superficial capillary plexus. However, due to image artifacts, the evaluation of the foveal avascular zone could not be performed."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9976157/10.1177_24741264211001679-fig3.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "An enlarged view of the peripheral left retina during the late venous phase displays significant peripheral nonperfusion, with marked arteriovenous anastomosis (indicated by arrowheads) and terminal vascular loops (indicated by arrows)."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9976697/fopht-02-1057896-g001.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "Fourteen archetypal visual field loss patterns were derived from the visual fields of 1957 primary open-angle glaucoma cases, encompassing 2581 affected eyes. Each archetype is denoted by an integer at the top left, indicating its number, and a percentage at the bottom left, representing the average decomposition weight for that pattern. The algorithm discerned 14 archetypes in total: four indicative of advanced loss patterns, nine of early loss, and one signifying no visual field loss. Although African-American patients constituted 1.3 percent of the study population, they exhibited nearly twice the risk of early visual field loss archetypes and six times the risk for advanced field loss archetypes in comparison to white patients."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9979076/OC-13-05-g-001.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "A slit-lamp photograph captures a nasally positioned subconjunctival hemorrhage in the patient's right eye coinciding with the onset of menstruation."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9979076/OC-13-05-g-002.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "A slit-lamp photograph of the patient's right eye, taken one week after the commencement of menstruation, reveals that the subconjunctival hemorrhage is in the early stages of resolving."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9979076/OC-13-05-g-003.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "A detailed examination of the slit-lamp image of the patient's right eye, taken two weeks post-menstruation onset, reveals a complete resolution of the subconjunctival hemorrhage."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9983272/12886_2023_2797_Fig2_HTML.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "The image comprises four distinct types of pigment epithelial detachment (PED) visualized through Spectral-Domain Optical Coherence Tomography (SD-OCT): A depicts a serous PED; B illustrates a fibrovascular PED; C displays a drusenoid PED; and D shows a hemorrhagic PED."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9986173/12348_2023_325_Fig2_HTML.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "The Optos photograph captures an image of the right eye on the day it was initially presented."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9986173/12348_2023_325_Fig3_HTML.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "The Optos image captures the left eye during a recurrence of endophthalmitis."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9986173/12348_2023_325_Fig4_HTML.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "An Optomap image captures the left eye two months subsequent to the initial presentation."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9986468/EB-15-15-g0001.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "Figures A and B illustrate the optical coherence tomography angiography (OCTA) images of the optic disc and macular region, respectively, in a patient with Alzheimer's type dementia (ATD). Figures C and D depict the OCTA images of the same regions in a normal participant. The images reveal that vessel density in the optic nerve and macula is reduced in the eye of the ATD patient when compared to the normal eye."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9987038/12886_2023_2835_Fig3_HTML.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "The images present a characteristic honeycomb appearance of the retina accompanied by ruptures in the inner retinal layer. One image illustrates a significant rupture in both the inner (indicated by a yellow arrow) and outer (indicated by a red arrow) retinal layers within the temporal quadrant of the right eye of a 3-year-old patient with chronic rhegmatogenous retinal detachment (RRD). Subsequent images from RetCam fundus photography of another 3-year-old patient display a classic honeycomb pattern (marked by a white dotted area) and multiple inner layer breaks (denoted by white arrows) in the right eye. Following prophylactic laser photocoagulation treatment, the outer retinal layer remained intact initially, but an RRD developed upon follow-up. The left eye of this patient demonstrated chronic RRD with multiple ruptures in the temporal region at onset, mirroring the inner layer breaks and honeycomb appearance observed in the right eye."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9987043/12886_2023_2821_Fig3_HTML.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "The provided optical coherence tomography images illustrate an initial presentation of retinal artery occlusion characterized by swelling of the inner retina. Observations made two months later reveal mild disruption of the ellipsoid zone and atrophy of the inner retina."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9987088/12886_2023_2834_Fig3_HTML.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "This series of images illustrates the progression of microcysts in a patient undergoing the third course of treatment. The right eye is shown in panels a, c, e, g, and i, while the left eye is depicted in panels b, d, f, h, and j. On the 5th day (a, b) of cytarabine therapy, the eye drops were switched from 0.1% fluorometholone to 0.1% betamethasone immediately after microcysts appeared. By the 6th day (c, d), microcysts started to accumulate slightly below the corneal center. The peak accumulation in the corneal center occurred on the 7th day (e, f), without affecting the corneal limbus, coinciding with the patient experiencing subjective symptoms. On the 8th day (g, h), microcysts began to gradually diminish. Subsequent documentation was hindered as the patient was placed in isolation due to cytopenia. By the 21st day (i, j), the microcysts had fully resolved with no residual ophthalmic disorders observed."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9988703/iovs-64-3-8-f002.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "Astroglia were identified in the vitreous of Fz5 mutant mice as indicated by GFAP staining. In all panels, GFAP staining is depicted in red, while AP2β staining is shown in green. \"+/+\" represents wild-type mice (Fz5+/+), and \"−/−\" indicates mutant mice (Fz5−/−). Panels A to H display the P3 retina, with panels A and B utilizing bright-field microscopy. In panels B, D, and F, arrows highlight the pigmentary retrolental mass, and arrowheads in panel F indicate the vitreous hyaloid vessel fragments in mutants that are positive for GFAP. Panels I to P follow the same panel arrangement as panels A to H."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9988703/iovs-64-3-8-f003.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "The pigment cells within the vitreous of the Fz5 mutant are confirmed as melanocytes. In the retinal sections at postnatal day 3 (P3), Sox10 is labeled in red, and Tyrp1 in green. The co-localization of Sox10, a neural crest marker, and Tyrp1, a melanin biosynthetic enzyme, is evident. Magnified views show that wild-type vitreous displays background staining in hyaloid vessels, while intense Tyrp1 cytoplasmic staining colocalizes with Sox10-positive cells in the vitreous mass. Bright-field microscopy of these sections highlights pigmentary areas and choroid melanocytes. Additionally, Pax3, labeled in red, and Tyrp1, in green, display an inverse correlation where strong Tyrp1 cytoplasmic staining is inversely related to Pax3 intensity. High magnification images detail the vitreous pigmentary cells and the retinal pigment epithelium (RPE) along with choroid melanocytes. Transmission electron microscopy further illustrates the P60 mutant vitreous and the distinct structures of RPE and choroid."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9988703/iovs-64-3-8-f005.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "The illustration reflects melanocyte heterogeneity and their similarities to choroid and RPE cells. Panel A exhibits the distribution of melanocyte cluster C20 on UMAPs, while Panel B presents gene ontology (GO) terms for C20, selected from top items with a P-value less than 2.0e-07. Panel C shows the UMAP distribution for melanocyte cluster C21, and Panel D outlines the GO terms for C21, selected from top items with a P-value less than 1.0e-23. The distribution of melanocyte cluster C12 on UMAPs is depicted in Panel E, with Panel F displaying GO terms for C12, selected from top items with a P-value less than 2.0e-05. Panel G features a dot plot of subsets of differentially expressed genes associated with specific cluster GO terms, highlighting genes related to the cell cycle (Cdkn1b), neural crest (Sox10 and Pax3), and apoptosis (Bcl2) in red. Panel H integrates RNA-seq data of mouse RPE/retinal choroid cells from a public database (GSE135167, PMID: 32196081) and projects this data on a two-dimensional UMAP. Lastly, Panels I and J present the correlation coefficient analysis of the gene expression profiles of C20 in relation to choroid and RPE pigment cells, respectively."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9988703/iovs-64-3-8-f009.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "The analysis of single-cell RNA sequencing (Sc-RNAseq) from human patient PFV samples includes several distinct visual representations of the data. The heatmap in panel (A) delineates a unique gene set that identifies various cell clusters within the patient's vitreous. Panel (B) presents a UMAP projection that visually displays these cell clusters, with specific clusters highlighted in red, including those with macrophage properties (hC6 and hC8, colored blue) and astrocyte properties (hC0 and hC5, colored purple). Panel (C) focuses on gene expression profiles of hyalocytes within macrophage-related clusters hC2, hC3, hC6, and hC8, confirming that hC2 and hC3 are indeed hyalocytes. Lastly, panel (D) offers an expression heatmap comparing pigmentation and melanocyte-associated neural crest genes in both mouse and human cell clusters."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9991478/JOPH2023-7893104.003.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "The provided SD-OCT images illustrate retinal conditions two days post-intravitreal cytokine injection in hyperglycemic mice. The serial OCT images (A-F), representing two subjects (a and b) administered with cytokines, reveal the presence of hyper-reflective spots in the retinal layers. Specifically, the images highlight hyper-reflective spots less than 20 μm (marked by orange arrows) and greater than 50 μm (marked by white arrows) within the inner nuclear and outer plexiform layers. Additionally, vitreal hyper-reflective spots are indicated by red arrows. These images correspond to positions along the green scan lines within the accompanying fundus image provided in the supplementary materials, with a scale bar representing 100 μm."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9991478/JOPH2023-7893104.005.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "The representative focal ERG responses captured two days post-intravitreal injection include data from control mice, both with and without cytokine injection (panels a and b), as well as hyperglycemic mice, both with and without intraocular cytokines (panels c and d). Corresponding oscillatory potentials (OPs) within the ERG responses at the highest light stimulus intensity of 3.2 log cd.s/m2 are marked as a′, b′, c′, and d′. The ERG response of control mice injected with cytokines aligns closely with that of untreated controls, displaying similar a-wave, b-wave, and OP responses. In contrast, hyperglycemic mice without cytokine treatment exhibit a reduced b-wave amplitude (highlighted with a green arrow). Furthermore, hyperglycemic mice administered with intraocular cytokines demonstrate significantly diminished a-wave and b-wave amplitudes at light intensities of 2, 2.6, and 3.2 log cd.s/m2 (indicated by red arrows). Both control and hyperglycemic mice subjected to proinflammatory cytokine injections showed a reduced OP response (highlighted in panels b′ and d′) relative to untreated control mice. A vertical grey dashed line at 50 ms marks the presentation time point of the white-light stimulus."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9993409/BEJ-8-64-g001.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "The initial presentation of this case, followed by the post-operative view, illustrates the progression and outcome of the surgical intervention."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9993411/BEJ-8-60-g001.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "An anterior segment photograph illustrates the presence of a Kayser-Fleischer ring encircling the entire 360° of the peripheral cornea."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9993412/BEJ-8-32-g001.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "The choroidal vascularity index (CVI) is illustrated using a binarized EDI-OCT image. In (a), a 1.5 mm segment of the subfoveal choroidal area is delineated, with yellow lines marking the total choroidal vascular area. In (b), the segmented OCT image undergoes binarization employing Niblack’s auto-local threshold technique. In (c), the color threshold is applied to highlight the luminal area. In (d), the binarized region is overlaid onto the EDI-OCT image. The CVI is subsequently determined by dividing the luminal area by the total choroidal area."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9993414/BEJ-8-55-g001.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "The pre-operative optical coherence tomography (OCT) image demonstrates a full thickness macular hole. Ten days post-amniotic membrane transplantation surgery, the OCT scan indicates the macular hole was successfully closed. At 1.5 months after surgery with silicone oil in situ, the hole remained closed, and the OCT scan revealed the neurosensory retina overfilling the amniotic membrane."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9993414/BEJ-8-55-g003.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "The preoperative optical coherence tomography (OCT) image revealed a full-thickness macular hole. Twenty days post-surgery, an OCT scan indicated the closure of the hole with the amniotic membrane (AM) properly positioned. At the six-month postoperative mark, the OCT scan demonstrated that the hole remained closed, and the neurosensory retina had overextended the amniotic membrane."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9993629/12886_2023_2820_Fig1_HTML.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "The provided OCT images illustrate baseline and follow-up scans of three representative cases with idiopathic macular hole (IMH). In Case 1 (A1, A2), a 67-year-old woman with a stage 4 IMH (MLD = 921 μm) exhibited a best-corrected visual acuity (BCVA) of 0.5 and a foveal retinal thickness (FRT) of 138 μm, ten months post-surgery, reflecting satisfactory recovery. Case 2 (B1, B2) documents a 56-year-old man with a stage 3 IMH (MLD = 876 μm), who also achieved a BCVA of 0.5 and an FRT of 163 μm ten months after surgery. Despite the difference in IMH stages, Cases 1 and 2 had comparable sizes and similar surgical outcomes. Case 3 (C1, C2) pertains to a 71-year-old man with a relatively smaller stage 4 IMH (MLD = 462 μm), who showed a quicker and better recovery, presenting a BCVA of 0.8 and an FRT of 216 μm seven months after surgery."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9998400/41433_2022_2179_Fig4_HTML.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "The Lipschitz macular implant (LMI) consists of a mirror telescopic intraocular lens (IOL) (A). An illustration elucidates the operational mechanism of the LMI (B), which enhances the central retinal image (C) with magnification facilitated by the embedded mirrors, as depicted by a gray trace of light indicating the magnification effect (D)[18]."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9998770/12348_2023_330_Fig1_HTML.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "A slit-lamp photograph of the right eye (A) reveals diffuse granulomatous keratic precipitates primarily located at the inferior cornea, as shown in higher magnification (B). A clinical photograph of the face (C) demonstrates numerous diffuse erythematous papules accompanied by vesicles, while a clinical photograph of the left index finger (D) illustrates swollen soft tissue and pus discharge."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9998770/12348_2023_330_Fig3_HTML.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "Serial fundus photographs and SS-OCT scans capturing the progression of a choroiditis lesion in the right eye reveal a dome-shaped hyper-reflective anomaly affecting both the outer and inner retina at the initial evaluation. At the 2-month follow-up, the lesion became more clearly defined and reduced in size. By the 6-month follow-up, the lesion had completely resolved, leading to the loss of the outer retinal layer."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9998770/12348_2023_330_Fig4_HTML.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "The biopsy tissue sample from the leg, stained with Wright's stain, reveals both intracellular and extracellular yeast forms."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9998839/12348_2023_326_Fig1_HTML.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "The image illustrates an advanced stage of BRC characterized by numerous cream-coloured fundus lesions associated with Birdshot Retinochoroidopathy."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9999277/10.1177_11206721211060140-fig3.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "This case exemplifies the ongoing treatment process with topical voriconazole, highlighting the specific areas of concern with arrows indicating the presence of infiltrates."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9999535/12886_2023_2822_Fig1_HTML.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "Multimodal imaging at the patient's initial visit prior to the enucleation of the left eye. The slit-lamp examination revealed edema and pronounced vascular congestion of the supratemporal conjunctiva and scleral tissue. Fundus imaging displayed significant vitreous opacity, resulting in a blurred view. Ultrasound biomicroscopy (UBM) identified a mass in the superior-temporal region of the ciliary body with accompanying exudation in the anterior chamber of the left eye. B-ultrasonography further confirmed the presence of a ciliary body mass associated with exudative retinal detachment in the left eye."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9999535/12886_2023_2822_Fig3_HTML.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "The histological and immunohistochemical analysis of the left eye revealed notable findings. Hematoxylin-eosin staining indicated the presence of infiltrating plasmacytes, lymphocytes, neutrophils, and histiocytes, alongside the proliferation of myofibroblasts. Immunohistochemical staining demonstrated that the plasmacytes were positive for IgG and IgG4, with an IgG4+/IgG+ plasma cell ratio of approximately 40%."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9999535/12886_2023_2822_Fig4_HTML.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "Imaging of the right eye pre-treatment reveals significant findings. The slit-lamp examination indicates the presence of edema and vascular congestion in the supratemporal conjunctiva and sclera tissue. Fundus examination identifies a grey-white mass located on the supratemporal peripheral fundus, accompanied by moderate vitreous opacity. Ultrasound biomicroscopy (UBM) details a mass measuring 7.7 mm × 2.4 mm in the superior-temporal part of the ciliary body, together with exudation in the anterior chamber. B-ultrasonography visualizes the ciliary body mass."
+  },
+  {
+    "image_paths": [
+      "data/images/pmc_eyes/PMC9999535/12886_2023_2822_Fig5_HTML.jpg"
+    ],
+    "prompt": "What is shown in this medical image?",
+    "GT": "MRI scans of the right orbit from the patient’s second visit reveal a lesion in the ciliary body region of the right eye. On the T1-weighted image (T1WI), the lesion exhibits an isointense to slightly hyperintense signal. Following gadolinium contrast enhancement, the lesion demonstrates visible enhancement in the T1-f12d fat suppression (fs) image. On T2-weighted images (T2WI), the lesion appears hypointense, as observed in both T2-tse-fs-tra and T2-tse-fs-cor scans."
+  }
+]
