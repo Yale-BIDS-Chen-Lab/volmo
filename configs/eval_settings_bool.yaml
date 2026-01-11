@@ -28,7 +28,6 @@ data_paths:
   brset_occlusion: data/datajsons/bool/brset_occlusion.json
   biobank_amd: data/datajsons/bool/biobank_amd.json
   biobank_dr: data/datajsons/bool/biobank_dr.json
-  biobank_glaucoma: data/datajsons/bool/biobank_glaucoma.json
 
 # Display names for reports
 display_names:
@@ -46,4 +45,3 @@ display_names:
   brset_occlusion: BRSET Retinal Vascular Occlusion
   biobank_amd: UK Biobank AMD
   biobank_dr: UK Biobank DR
-  biobank_glaucoma: UK Biobank Glaucoma

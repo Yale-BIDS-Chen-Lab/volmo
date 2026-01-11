@@ -241,12 +241,13 @@ def generate_unified_report(all_results: Dict[str, Dict], timestamp: str):
                 samples = result.get('total_samples', result.get('total_items', 0))
                 
                 if task in ['bool', 'stage']:
-                    # Only show accuracy for classification tasks
                     f.write(f"- **Accuracy:** {metrics.get('accuracy', 0):.4f}\n")
-                elif task in ['imgdesc', 'assessplan']:
-                    # Show comprehensive text metrics
+                elif task == 'imgdesc':
                     f.write(f"- **BLEU-1:** {metrics.get('bleu1', 0):.4f}\n")
                     f.write(f"- **ROUGE-L F1:** {metrics.get('rouge_l_f', 0):.4f}\n")
+                    f.write(f"- **BERTScore F1:** {metrics.get('bert_f1', 0):.4f}\n")
+                    f.write(f"- **SBERT Similarity:** {metrics.get('sbert_similarity', 0):.4f}\n")
+                elif task == 'assessplan':
                     f.write(f"- **BERTScore F1:** {metrics.get('bert_f1', 0):.4f}\n")
                     f.write(f"- **SBERT Similarity:** {metrics.get('sbert_similarity', 0):.4f}\n")
                 
@@ -267,14 +268,10 @@ def generate_unified_report(all_results: Dict[str, Dict], timestamp: str):
 def main():
     """Main function to run the complete evaluation pipeline."""
     
-    # Set GPU device to GPU 3
-    os.environ['CUDA_VISIBLE_DEVICES'] = '3'
-    
     print("="*70, flush=True)
     print("VOLMO EVALUATION PIPELINE", flush=True)
     print("="*70, flush=True)
     print(f"Started: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}", flush=True)
-    print(f"Using GPU: 3", flush=True)
     print("Initializing...", flush=True)
     
     timestamp = datetime.now().strftime('%Y%m%d%H%M%S')
