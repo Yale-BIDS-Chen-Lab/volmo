@@ -25,6 +25,51 @@ Official repository of **VOLMO: Versatile and Open Large Models for Ophthalmolog
 
 ---
 
+## 🤖 Models
+
+VOLMO-2B is a 2-billion parameter mulimodal large language model. The pre-trained model weights are available on Hugging Face.
+
+### Download Model
+
+```python
+from huggingface_hub import snapshot_download
+
+# Download VOLMO-2B model
+model_path = snapshot_download(
+    repo_id="Yale-BIDS-Chen/VOLMO-2B",
+    local_dir="./models/volmo_2b_stage_3"
+)
+```
+
+**Hugging Face Repository**: [Yale-BIDS-Chen/VOLMO-2B](https://huggingface.co/Yale-BIDS-Chen/VOLMO-2B)
+
+For detailed model documentation, see [models/README.md](models/README.md).
+
+---
+
+## 📊 Data
+
+VOLMO evaluation data includes curated datasets across four task categories: binary classification, disease staging, image description, and clinical assessment.
+
+### Download Data
+
+```python
+from huggingface_hub import snapshot_download
+
+# Download evaluation datasets
+data_path = snapshot_download(
+    repo_id="Yale-BIDS-Chen/VOLMO-Evaluation-Data",
+    repo_type="dataset",
+    local_dir="./data"
+)
+```
+
+**Hugging Face Repository**: [Yale-BIDS-Chen/VOLMO-Evaluation-Data](https://huggingface.co/datasets/Yale-BIDS-Chen/VOLMO-Evaluation-Data)
+
+For detailed data documentation, see [data/README.md](data/README.md).
+
+---
+
 ## 🚀 Quick Start
 
 ### Environment Setup

@@ -1,3 +1,9 @@
+/data/
+/data_wip/
+/models/
+/scripts/
+/volmo_evaluation_results/
+
 # Python
 __pycache__/
 *.py[cod]
