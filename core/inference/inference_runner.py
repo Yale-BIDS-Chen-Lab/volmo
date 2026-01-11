@@ -9,6 +9,8 @@ import os
 import sys
 import json
 import torch
+import random
+import numpy as np
 from pathlib import Path
 from typing import Dict, List, Any, Optional
 from tqdm import tqdm
@@ -17,6 +19,34 @@ from tqdm import tqdm
 os.environ['TRANSFORMERS_NO_FLASH_ATTENTION'] = '1'
 os.environ['DISABLE_FLASH_ATTENTION'] = '1'
 torch.backends.cuda.enable_flash_sdp(False)
+
+
+def set_seed(seed: int) -> None:
+    """
+    Set seed for reproducibility across all random number generators.
+    
+    Args:
+        seed: Seed value to use for reproducibility
+    """
+    # Set Python random seed
+    random.seed(seed)
+    
+    # Set NumPy random seed
+    np.random.seed(seed)
+    
+    # Set PyTorch random seeds
+    torch.manual_seed(seed)
+    torch.cuda.manual_seed(seed)
+    torch.cuda.manual_seed_all(seed)
+    
+    # Set additional PyTorch settings for reproducibility
+    torch.backends.cudnn.deterministic = True
+    torch.backends.cudnn.benchmark = False
+    
+    # Set environment variable for Python hash seed
+    os.environ['PYTHONHASHSEED'] = str(seed)
+    
+    print(f"🌱 Seed set to {seed} for reproducibility")
 
 
 class InferenceRunner:
@@ -34,6 +64,11 @@ class InferenceRunner:
         self.data_path = config['DATA_JSON_PATH']
         self.save_dir = Path(config['SAVE_DIR'])
         self.save_dir.mkdir(parents=True, exist_ok=True)
+        
+        # Set seed for reproducibility only if provided
+        self.seed = config.get('SEED', None)
+        if self.seed is not None:
+            set_seed(self.seed)
         
         self.model = None
         self.tokenizer = None
@@ -225,12 +260,13 @@ class InferenceRunner:
             pixel_values_list.append(pixel_values)
             num_patches_list.append(pixel_values.shape[0])
         
+        # Handle text-only case (no images)
         if not pixel_values_list:
-            return "Error: No valid images found"
-        
-        # Concatenate all images
-        pixel_values = torch.cat(pixel_values_list, dim=0)
-        pixel_values = pixel_values.to(torch.bfloat16).cuda()
+            pixel_values = None
+        else:
+            # Concatenate all images
+            pixel_values = torch.cat(pixel_values_list, dim=0)
+            pixel_values = pixel_values.to(torch.bfloat16).cuda()
         
         # Generate response
         generation_config = dict(
@@ -240,7 +276,15 @@ class InferenceRunner:
         )
         
         with torch.no_grad():
-            if len(image_paths) == 1 or len(pixel_values_list) == 1:
+            if pixel_values is None:
+                # Text-only case - no images
+                response = self.model.chat(
+                    self.tokenizer,
+                    None,
+                    question,
+                    generation_config
+                )
+            elif len(image_paths) == 1 or len(pixel_values_list) == 1:
                 # Single image - standard chat
                 response = self.model.chat(
                     self.tokenizer,

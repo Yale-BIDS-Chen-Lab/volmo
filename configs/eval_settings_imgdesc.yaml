@@ -5,7 +5,7 @@ task: image_description
 
 # Model configuration
 model:
-  model_path: models/volmo_2b_stage_3/volmo_2b_stage_3
+  model_path: models/volmo_2b_stage_3
   input_size: 448
   max_num: 6
 
