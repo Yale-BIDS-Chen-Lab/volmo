@@ -60,16 +60,12 @@ class StageEvaluator:
         
         response = str(response).strip().lower()
         
-        # Remove trailing punctuation
         response = response.rstrip('.!,;: ')
         
-        # Direct stage number match
         if response in ['0', '1', '2', '3', '4']:
             return response
         
-        # Look for stage numbers in text
         import re
-        # Match patterns like "stage 2", "grade 3", "level 1", or just numbers
         patterns = [
             r'(?:stage|grade|level|class)\s*[:\s]*([0-4])',
             r'\b([0-4])\b'
@@ -91,14 +87,11 @@ class StageEvaluator:
         """
         gt_str = str(gt).strip().lower()
         
-        # Remove trailing punctuation
         gt_str = gt_str.rstrip('.!,;: ')
         
-        # Direct number match
         if gt_str in ['0', '1', '2', '3', '4']:
             return gt_str
         
-        # Handle string representations
         stage_map = {
             'zero': '0', 'none': '0',
             'one': '1', 'mild': '1',
@@ -121,7 +114,6 @@ class StageEvaluator:
         """
         print(f"Evaluating stage classification...")
         
-        # Extract predictions and ground truths
         ground_truths = []
         predictions = []
         invalid_items = []
@@ -146,20 +138,16 @@ class StageEvaluator:
             print("No valid predictions found!")
             return {}
         
-        # Calculate metrics
         classes = sorted(list(set(ground_truths + predictions)))
         
-        # Overall metrics
         accuracy = accuracy_score(ground_truths, predictions)
         
-        # Multi-class metrics (macro average)
         precision = precision_score(ground_truths, predictions, average='macro', zero_division=0)
         recall = recall_score(ground_truths, predictions, average='macro', zero_division=0)
         f1 = f1_score(ground_truths, predictions, average='macro', zero_division=0)
         
         print(f"Valid: {len(predictions)}/{len(data)} | Acc: {accuracy:.3f} | Macro-F1: {f1:.3f}")
         
-        # Per-class metrics
         per_class = {}
         for cls in classes:
             cls_gt = [1 if g == cls else 0 for g in ground_truths]
@@ -173,10 +161,8 @@ class StageEvaluator:
                     'support': sum(cls_gt)
                 }
         
-        # Confusion matrix
         cm = confusion_matrix(ground_truths, predictions, labels=classes)
         
-        # Compile results
         results = {
             'overall_metrics': {
                 'accuracy': float(accuracy),
@@ -198,13 +184,10 @@ class StageEvaluator:
             }
         }
         
-        # Save results
         self._save_results(results)
         
-        # Plot confusion matrix
         self._plot_confusion_matrix(cm, classes)
         
-        # Save invalid responses
         if invalid_items:
             invalid_path = self.save_dir / "invalid_responses.txt"
             with open(invalid_path, 'w') as f:
@@ -241,10 +224,8 @@ class StageEvaluator:
     def run(self):
         """Execute evaluation pipeline."""
         try:
-            # Load results
             data = self.load_results()
             
-            # Evaluate
             results = self.evaluate(data)
             
             if results:
@@ -271,11 +252,9 @@ def main():
     parser.add_argument("--config_path", type=str, required=True, help="Path to config YAML")
     args = parser.parse_args()
     
-    # Load config
     with open(args.config_path, 'r') as f:
         config = yaml.safe_load(f)
     
-    # Run evaluation
     evaluator = StageEvaluator(config)
     success = evaluator.run()
     

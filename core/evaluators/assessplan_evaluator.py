@@ -17,21 +17,17 @@ from typing import Dict, List, Optional
 from dataclasses import dataclass
 from sklearn.metrics.pairwise import cosine_similarity
 
-# NLP metrics
 from bert_score import score as bert_score
 from sentence_transformers import SentenceTransformer
 
 
 @dataclass
 class AssessPlanMetrics:
-    """Metrics for assessment & plan evaluation."""
     bert_f1: float
     sbert_similarity: float
 
 
 class AssessPlanEvaluator:
-    """Evaluator for assessment & plan task using NLP metrics."""
-    
     def __init__(self, config_path: str):
         with open(config_path, 'r') as f:
             self.config = yaml.safe_load(f)
@@ -40,20 +36,17 @@ class AssessPlanEvaluator:
         self.save_dir = Path(self.config['SAVE_DIR'])
         self.save_dir.mkdir(parents=True, exist_ok=True)
         
-        # Initialize NLP models - use paraphrase-MiniLM-L6-v2 to match main pipeline
-        self.sbert_model = SentenceTransformer('paraphrase-MiniLM-L6-v2')
+        self.sbert_model = SentenceTransformer('all-mpnet-base-v2')
         if torch.cuda.is_available():
             self.sbert_model = self.sbert_model.to('cuda')
         
-        # Indices to evaluate: 2, 3, 4 (skip 0 and 1)
         self.eval_indices = [2, 3, 4]
     
     def calculate_bert_score(self, references: List[str], hypotheses: List[str]) -> List[float]:
-        """Calculate BERTScore for batch using bert-base-multilingual-cased to match main pipeline."""
         _, _, f1_scores = bert_score(
             hypotheses, 
             references, 
-            model_type='bert-base-multilingual-cased',
+            model_type='roberta-large',
             lang='en', 
             verbose=False,
             rescale_with_baseline=False
@@ -61,19 +54,13 @@ class AssessPlanEvaluator:
         return f1_scores.tolist()
     
     def calculate_sbert_similarity(self, reference: str, hypothesis: str) -> float:
-        """
-        Calculate sentence-BERT similarity using sentence-level matching.
-        This matches the main pipeline's implementation for consistency.
-        """
         if not reference or not hypothesis:
             return 0.0
         
         try:
-            # Split both texts into sentences
             import nltk
             from nltk.tokenize import sent_tokenize
             
-            # Ensure punkt tokenizer is available
             try:
                 nltk.data.find('tokenizers/punkt')
             except LookupError:
@@ -82,38 +69,30 @@ class AssessPlanEvaluator:
             ref_sentences = sent_tokenize(reference.strip())
             hyp_sentences = sent_tokenize(hypothesis.strip())
             
-            # Filter out empty sentences
             ref_sentences = [s.strip() for s in ref_sentences if s.strip()]
             hyp_sentences = [s.strip() for s in hyp_sentences if s.strip()]
             
             if not ref_sentences or not hyp_sentences:
                 return 0.0
             
-            # Strategy: Use best-match for all cases to handle different sentence orders
-            # For each sentence in the shorter text, find its best match in the longer text
             similarities = []
             
             if len(ref_sentences) <= len(hyp_sentences):
-                # More hypothesis sentences: find best match for each reference sentence
                 hyp_embeddings = self.sbert_model.encode(hyp_sentences, convert_to_tensor=False)
                 
                 for ref_sent in ref_sentences:
                     ref_emb = self.sbert_model.encode([ref_sent], convert_to_tensor=False)[0]
-                    # Find best matching hypothesis sentence
                     sent_sims = [cosine_similarity([ref_emb], [hyp_emb])[0, 0] for hyp_emb in hyp_embeddings]
                     similarities.append(max(sent_sims))
             
             else:
-                # More reference sentences: find best match for each hypothesis sentence
                 ref_embeddings = self.sbert_model.encode(ref_sentences, convert_to_tensor=False)
                 
                 for hyp_sent in hyp_sentences:
                     hyp_emb = self.sbert_model.encode([hyp_sent], convert_to_tensor=False)[0]
-                    # Find best matching reference sentence
                     sent_sims = [cosine_similarity([ref_emb], [hyp_emb])[0, 0] for ref_emb in ref_embeddings]
                     similarities.append(max(sent_sims))
             
-            # Return average similarity across sentences
             if similarities:
                 return float(np.mean(similarities))
             else:
@@ -123,7 +102,6 @@ class AssessPlanEvaluator:
             if "out of memory" in str(e):
                 print("⚠️ GPU OOM in SBERT, moving to CPU")
                 self.sbert_model = self.sbert_model.to('cpu')
-                # Retry with simpler approach on CPU
                 ref_emb = self.sbert_model.encode([reference], convert_to_tensor=False)[0]
                 hyp_emb = self.sbert_model.encode([hypothesis], convert_to_tensor=False)[0]
                 similarity = cosine_similarity([ref_emb], [hyp_emb])[0, 0]
@@ -133,7 +111,6 @@ class AssessPlanEvaluator:
         except Exception as e:
             print(f"⚠️ Error in sentence-level SBERT processing, falling back to paragraph level: {e}")
             print(f"[DEBUG] Error type: {type(e).__name__}")
-            # Fallback to paragraph-level processing
             try:
                 ref_emb = self.sbert_model.encode([reference], convert_to_tensor=False)[0]
                 hyp_emb = self.sbert_model.encode([hypothesis], convert_to_tensor=False)[0]
@@ -145,11 +122,7 @@ class AssessPlanEvaluator:
                 return 0.0
     
     def evaluate_single(self, ground_truth: str, prediction: str) -> AssessPlanMetrics:
-        """Evaluate single prediction."""
-        # BERTScore (batch of 1)
         bert_f1 = self.calculate_bert_score([ground_truth], [prediction])[0]
-        
-        # Sentence-BERT similarity
         sbert_sim = self.calculate_sbert_similarity(ground_truth, prediction)
         
         return AssessPlanMetrics(
@@ -160,7 +133,6 @@ class AssessPlanEvaluator:
     def evaluate(self) -> Dict:
         """Run evaluation on all results."""
         all_metrics = []
-        # Store metrics for each index separately
         metrics_by_index = {idx: [] for idx in self.eval_indices}
         
         for result_path in self.result_paths:
@@ -173,12 +145,10 @@ class AssessPlanEvaluator:
                 gt_list = item.get('GT', [])
                 pred_list = item.get('lm_response', item.get('response', []))
                 
-                # Ensure both are lists
                 if not isinstance(gt_list, list) or not isinstance(pred_list, list):
                     print(f"Warning: Skipping item - GT or prediction is not a list")
                     continue
                 
-                # Evaluate only indices 2, 3, 4
                 for idx in self.eval_indices:
                     if idx >= len(gt_list) or idx >= len(pred_list):
                         print(f"Warning: Index {idx} out of range, skipping")
@@ -193,7 +163,6 @@ class AssessPlanEvaluator:
                     
                     metrics = self.evaluate_single(gt, pred)
                     
-                    # DEBUG: Print for problematic indices
                     if len(all_metrics) in [9, 10, 11]:
                         print(f"[DEBUG] Metric #{len(all_metrics)}: SBERT={metrics.sbert_similarity:.4f}")
                         print(f"[DEBUG]   GT length: {len(gt)} chars, Pred length: {len(pred)} chars")
@@ -203,7 +172,6 @@ class AssessPlanEvaluator:
                     all_metrics.append(metrics)
                     metrics_by_index[idx].append(metrics)
         
-        # Check if we have any metrics
         if len(all_metrics) == 0:
             print("No valid samples found for evaluation")
             return {
@@ -214,13 +182,11 @@ class AssessPlanEvaluator:
                 'individual_metrics': []
             }
         
-        # Calculate overall metrics (across all indices)
         overall = {
             'bert_f1': sum(m.bert_f1 for m in all_metrics) / len(all_metrics),
             'sbert_similarity': sum(m.sbert_similarity for m in all_metrics) / len(all_metrics)
         }
         
-        # Calculate metrics for each index
         index_metrics = {}
         for idx in self.eval_indices:
             if len(metrics_by_index[idx]) > 0:
@@ -245,7 +211,6 @@ class AssessPlanEvaluator:
             ]
         }
         
-        # Save results
         result_file = self.save_dir / "assessplan_results.json"
         print(f"\n[DEBUG] Saving to: {result_file}")
         print(f"[DEBUG] First 3 SBERT scores: {[m.sbert_similarity for m in all_metrics[:3]]}")

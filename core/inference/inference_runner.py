@@ -15,7 +15,6 @@ from pathlib import Path
 from typing import Dict, List, Any, Optional
 from tqdm import tqdm
 
-# Disable flash attention
 os.environ['TRANSFORMERS_NO_FLASH_ATTENTION'] = '1'
 os.environ['DISABLE_FLASH_ATTENTION'] = '1'
 torch.backends.cuda.enable_flash_sdp(False)
@@ -28,22 +27,17 @@ def set_seed(seed: int) -> None:
     Args:
         seed: Seed value to use for reproducibility
     """
-    # Set Python random seed
     random.seed(seed)
     
-    # Set NumPy random seed
     np.random.seed(seed)
     
-    # Set PyTorch random seeds
     torch.manual_seed(seed)
     torch.cuda.manual_seed(seed)
     torch.cuda.manual_seed_all(seed)
     
-    # Set additional PyTorch settings for reproducibility
     torch.backends.cudnn.deterministic = True
     torch.backends.cudnn.benchmark = False
     
-    # Set environment variable for Python hash seed
     os.environ['PYTHONHASHSEED'] = str(seed)
     
     print(f"🌱 Seed set to {seed} for reproducibility")
@@ -65,7 +59,6 @@ class InferenceRunner:
         self.save_dir = Path(config['SAVE_DIR'])
         self.save_dir.mkdir(parents=True, exist_ok=True)
         
-        # Set seed for reproducibility only if provided
         self.seed = config.get('SEED', None)
         if self.seed is not None:
             set_seed(self.seed)
@@ -85,13 +78,11 @@ class InferenceRunner:
         
         model_path = self.model_args['MODEL_PATH']
         
-        # Load tokenizer - use AutoTokenizer to match main pipeline behavior
         self.tokenizer = AutoTokenizer.from_pretrained(
             model_path,
             trust_remote_code=True
         )
         
-        # Load model - match main pipeline configuration exactly
         self.model = AutoModel.from_pretrained(
             model_path,
             torch_dtype=torch.bfloat16,
@@ -122,7 +113,6 @@ class InferenceRunner:
         print(f"Running inference...")
         results = []
         
-        # Check if this is assessplan task (has list-based prompts/GTs)
         is_assessplan = False
         if len(data) > 0:
             first_item = data[0]
@@ -132,24 +122,19 @@ class InferenceRunner:
         
         for item in tqdm(data, desc="Processing"):
             try:
-                # Get image path(s) - support both 'image' and 'image_paths' keys
                 image_paths = item.get('image_paths', item.get('image', []))
                 if isinstance(image_paths, str):
                     image_paths = [image_paths]
                 
-                # Get question - support both 'question' and 'prompt' keys
                 question = item.get('prompt', item.get('question', ''))
-                # Get ground truth - support both 'GT' and 'gt' keys
                 gt = item.get('GT', item.get('gt', ''))
                 
                 if is_assessplan and isinstance(question, list) and isinstance(gt, list):
-                    # For assessplan: process each prompt in the list
                     responses = []
                     for q in question:
                         response = self._infer_volmo(image_paths, q)
                         responses.append(response)
                     
-                    # Create result entry with list-based responses
                     result = {
                         'image_paths': image_paths,
                         'prompt': question,
@@ -157,16 +142,13 @@ class InferenceRunner:
                         'lm_response': responses
                     }
                 else:
-                    # For non-assessplan tasks: join lists or process as string
                     if isinstance(question, list):
                         question = ' '.join(question) if question else ''
                     if isinstance(gt, list):
                         gt = ' '.join(gt) if gt else ''
                     
-                    # Run inference with VOLMO
                     response = self._infer_volmo(image_paths, question)
                     
-                    # Create result entry - use image_paths and prompt keys to match expected format
                     result = {
                         'image_paths': image_paths,
                         'prompt': question,
@@ -178,16 +160,12 @@ class InferenceRunner:
                 
             except Exception as e:
                 print(f"\n⚠️  Error processing item {item.get('id', 'unknown')}: {e}")
-                # Get image paths safely
                 image_paths = item.get('image_paths', item.get('image', []))
                 if isinstance(image_paths, str):
                     image_paths = [image_paths]
-                # Get GT safely
                 gt = item.get('GT', item.get('gt', ''))
-                # Get question safely
                 question = item.get('prompt', item.get('question', ''))
                 
-                # Handle error based on task type
                 if is_assessplan and isinstance(question, list):
                     error_responses = [f"Error: {str(e)}" for _ in question]
                     results.append({
@@ -225,7 +203,6 @@ class InferenceRunner:
         import torchvision.transforms as T
         from torchvision.transforms.functional import InterpolationMode
         
-        # Build image transform
         IMAGENET_MEAN = (0.485, 0.456, 0.406)
         IMAGENET_STD = (0.229, 0.224, 0.225)
         
@@ -243,7 +220,6 @@ class InferenceRunner:
         max_num = self.model_args.get('MAX_NUM', 6)
         transform = build_transform(input_size=input_size)
         
-        # Load and process images using dynamic preprocessing
         pixel_values_list = []
         num_patches_list = []
         
@@ -252,23 +228,18 @@ class InferenceRunner:
                 continue
             image = Image.open(img_path).convert('RGB')
             
-            # Apply dynamic preprocessing to match main pipeline
             processed_images = self._dynamic_preprocess(image, max_num=max_num, image_size=input_size)
             
-            # Transform each processed image patch
             pixel_values = torch.stack([transform(img) for img in processed_images])
             pixel_values_list.append(pixel_values)
             num_patches_list.append(pixel_values.shape[0])
         
-        # Handle text-only case (no images)
         if not pixel_values_list:
             pixel_values = None
         else:
-            # Concatenate all images
             pixel_values = torch.cat(pixel_values_list, dim=0)
             pixel_values = pixel_values.to(torch.bfloat16).cuda()
         
-        # Generate response
         generation_config = dict(
             num_beams=1,
             max_new_tokens=2048,
@@ -277,7 +248,6 @@ class InferenceRunner:
         
         with torch.no_grad():
             if pixel_values is None:
-                # Text-only case - no images
                 response = self.model.chat(
                     self.tokenizer,
                     None,
@@ -285,7 +255,6 @@ class InferenceRunner:
                     generation_config
                 )
             elif len(image_paths) == 1 or len(pixel_values_list) == 1:
-                # Single image - standard chat
                 response = self.model.chat(
                     self.tokenizer,
                     pixel_values,
@@ -293,12 +262,10 @@ class InferenceRunner:
                     generation_config
                 )
             else:
-                # Multiple images - add image prefixes and use num_patches_list
                 image_token_count = question.count('<image>')
                 if image_token_count == len(pixel_values_list):
                     modified_prompt = question
                 else:
-                    # Add image prefixes for each image
                     image_prefixes = ''.join([f'Image-{i+1}: <image>\n' for i in range(len(pixel_values_list))])
                     modified_prompt = image_prefixes + question
                 
@@ -320,7 +287,6 @@ class InferenceRunner:
         orig_width, orig_height = image.size
         aspect_ratio = orig_width / orig_height
         
-        # Calculate target ratios
         target_ratios = set(
             (i, j) for n in range(min_num, max_num + 1) 
             for i in range(1, n + 1) 
@@ -329,17 +295,14 @@ class InferenceRunner:
         )
         target_ratios = sorted(target_ratios, key=lambda x: x[0] * x[1])
         
-        # Find the closest aspect ratio
         target_aspect_ratio = self._find_closest_aspect_ratio(
             aspect_ratio, target_ratios, orig_width, orig_height, image_size
         )
         
-        # Calculate target dimensions
         target_width = image_size * target_aspect_ratio[0]
         target_height = image_size * target_aspect_ratio[1]
         blocks = target_aspect_ratio[0] * target_aspect_ratio[1]
         
-        # Resize and split the image
         resized_img = image.resize((target_width, target_height))
         processed_images = []
         
@@ -353,7 +316,6 @@ class InferenceRunner:
             split_img = resized_img.crop(box)
             processed_images.append(split_img)
         
-        # Add thumbnail if needed
         has_thumbnail = use_thumbnail and len(processed_images) != 1
         if has_thumbnail:
             thumbnail_img = image.resize((image_size, image_size))
@@ -391,16 +353,12 @@ class InferenceRunner:
     def run(self):
         """Execute the complete inference pipeline."""
         try:
-            # Load model
             self.load_model()
             
-            # Load data
             data = self.load_data()
             
-            # Run inference
             results = self.run_inference(data)
             
-            # Save results
             self.save_results(results)
             
             return True
@@ -421,11 +379,9 @@ def main():
     parser.add_argument("--config_path", type=str, required=True, help="Path to config YAML file")
     args = parser.parse_args()
     
-    # Load configuration
     with open(args.config_path, 'r') as f:
         config = yaml.safe_load(f)
     
-    # Run inference
     runner = InferenceRunner(config)
     success = runner.run()
     

@@ -68,16 +68,13 @@ class ClassificationEvaluator:
         
         response_lower = str(response).lower().strip()
         
-        # Remove trailing punctuation
         response_lower = response_lower.rstrip('.!,;: ')
         
-        # Direct matches
         if response_lower in ['yes', '1', 'true']:
             return 'yes'
         elif response_lower in ['no', '0', 'false']:
             return 'no'
         
-        # Check for yes/no in longer responses
         has_yes = 'yes' in response_lower
         has_no = 'no' in response_lower
         
@@ -100,7 +97,6 @@ class ClassificationEvaluator:
         """
         gt_str = str(gt).lower().strip()
         
-        # Remove trailing punctuation
         gt_str = gt_str.rstrip('.!,;: ')
         
         if gt_str in ['yes', '1', 'true']:
@@ -122,7 +118,6 @@ class ClassificationEvaluator:
         """
         print(f"Evaluating classification results...")
         
-        # Extract predictions and ground truths
         ground_truths = []
         predictions = []
         invalid_items = []
@@ -148,14 +143,11 @@ class ClassificationEvaluator:
             print("No valid predictions found!")
             return {}
         
-        # Calculate metrics
         classes = sorted(list(set(ground_truths + predictions)))
         
-        # Overall metrics
         accuracy = accuracy_score(ground_truths, predictions)
         balanced_acc = balanced_accuracy_score(ground_truths, predictions)
         
-        # Handle binary/multiclass
         average = 'binary' if len(classes) == 2 else 'macro'
         pos_label = classes[1] if len(classes) == 2 else None
         
@@ -168,7 +160,6 @@ class ClassificationEvaluator:
         
         print(f"Valid: {len(predictions)}/{len(data)} | Acc: {accuracy:.3f} | F1: {f1:.3f}")
         
-        # Per-class metrics
         per_class_metrics = {}
         for cls in classes:
             cls_mask = [gt == cls for gt in ground_truths]
@@ -182,10 +173,8 @@ class ClassificationEvaluator:
                 'correct': cls_correct
             }
         
-        # Confusion matrix
         cm = confusion_matrix(ground_truths, predictions, labels=classes)
         
-        # Save results
         results = {
             'overall_metrics': {
                 'accuracy': float(accuracy),
@@ -202,10 +191,8 @@ class ClassificationEvaluator:
             'invalid_responses': len(invalid_items)
         }
         
-        # Save results
         self._save_results(results, invalid_items)
         
-        # Plot confusion matrix
         self._plot_confusion_matrix(cm, classes)
         
         print(f"\n✅ Evaluation complete!")
@@ -214,13 +201,11 @@ class ClassificationEvaluator:
     
     def _save_results(self, results: Dict[str, Any], invalid_items: List[Dict[str, Any]]):
         """Save evaluation results."""
-        # Save main results
         results_path = self.save_dir / "bool_results.json"
         with open(results_path, 'w') as f:
             json.dump(results, f, indent=2)
         print(f"\n💾 Results saved to: {results_path}")
         
-        # Save invalid responses
         if invalid_items:
             invalid_path = self.save_dir / "invalid_responses.txt"
             with open(invalid_path, 'w') as f:
@@ -250,10 +235,8 @@ class ClassificationEvaluator:
     def run(self):
         """Execute the complete evaluation pipeline."""
         try:
-            # Load results
             data = self.load_results()
             
-            # Evaluate
             results = self.evaluate(data)
             
             return True
@@ -274,11 +257,9 @@ def main():
     parser.add_argument("--config_path", type=str, required=True, help="Path to config YAML file")
     args = parser.parse_args()
     
-    # Load configuration
     with open(args.config_path, 'r') as f:
         config = yaml.safe_load(f)
     
-    # Run evaluation
     evaluator = ClassificationEvaluator(config)
     success = evaluator.run()
     
