@@ -69,7 +69,7 @@ For questions or collaboration inquiries, please email:
 
 ## 🔗 Resources
 
-- 🏠 **Main Repository**: [https://github.com/kfzyqin/volmo](https://github.com/Yale-BIDS-Chen-Lab/VOLMO)
+- 🏠 **Main Repository**: [https://github.com/kfzyqin/volmo](https://github.com/Yale-BIDS-Chen-Lab/volmo)
 - 🤗 **Hugging Face Model**: [https://huggingface.co/Yale-BIDS-Chen/VOLMO-2B](https://huggingface.co/Yale-BIDS-Chen/VOLMO-2B)
 - 📊 **Evaluation Data**: [https://huggingface.co/datasets/Yale-BIDS-Chen/VOLMO-Evaluation-Data](https://huggingface.co/datasets/Yale-BIDS-Chen/VOLMO-Evaluation-Data)
 
