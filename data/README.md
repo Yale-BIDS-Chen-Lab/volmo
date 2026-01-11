@@ -211,7 +211,7 @@ For questions or collaboration inquiries, please email:
 
 ## 🔗 Resources
 
-- 🏠 **Main Repository**: [https://github.com/kfzyqin/volmo](https://github.com/kfzyqin/volmo)
+- 🏠 **Main Repository**: [https://github.com/kfzyqin/volmo](https://github.com/Yale-BIDS-Chen-Lab/VOLMO)
 - 🤗 **Model Weights**: [https://huggingface.co/Yale-BIDS-Chen/VOLMO-2B](https://huggingface.co/Yale-BIDS-Chen/VOLMO-2B)
 - 📊 **This Dataset**: [https://huggingface.co/datasets/Yale-BIDS-Chen/VOLMO-Evaluation-Data](https://huggingface.co/datasets/Yale-BIDS-Chen/VOLMO-Evaluation-Data)
 
