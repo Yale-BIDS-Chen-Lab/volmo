@@ -13,9 +13,6 @@ from collections import Counter
 import numpy as np
 from sklearn.metrics import (
     confusion_matrix,
-    f1_score,
-    precision_score,
-    recall_score,
     balanced_accuracy_score,
     accuracy_score
 )
@@ -148,17 +145,7 @@ class ClassificationEvaluator:
         accuracy = accuracy_score(ground_truths, predictions)
         balanced_acc = balanced_accuracy_score(ground_truths, predictions)
         
-        average = 'binary' if len(classes) == 2 else 'macro'
-        pos_label = classes[1] if len(classes) == 2 else None
-        
-        precision = precision_score(ground_truths, predictions, average=average, 
-                                    pos_label=pos_label, zero_division=0)
-        recall = recall_score(ground_truths, predictions, average=average,
-                             pos_label=pos_label, zero_division=0)
-        f1 = f1_score(ground_truths, predictions, average=average,
-                     pos_label=pos_label, zero_division=0)
-        
-        print(f"Valid: {len(predictions)}/{len(data)} | Acc: {accuracy:.3f} | F1: {f1:.3f}")
+        print(f"Valid: {len(predictions)}/{len(data)} | Acc: {accuracy:.3f}")
         
         per_class_metrics = {}
         for cls in classes:
@@ -178,10 +165,7 @@ class ClassificationEvaluator:
         results = {
             'overall_metrics': {
                 'accuracy': float(accuracy),
-                'balanced_accuracy': float(balanced_acc),
-                'precision': float(precision),
-                'recall': float(recall),
-                'f1_score': float(f1)
+                'balanced_accuracy': float(balanced_acc)
             },
             'per_class_metrics': per_class_metrics,
             'confusion_matrix': cm.tolist(),

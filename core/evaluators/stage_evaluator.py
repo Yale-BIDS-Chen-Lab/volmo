@@ -142,33 +142,26 @@ class StageEvaluator:
         
         accuracy = accuracy_score(ground_truths, predictions)
         
-        precision = precision_score(ground_truths, predictions, average='macro', zero_division=0)
-        recall = recall_score(ground_truths, predictions, average='macro', zero_division=0)
-        f1 = f1_score(ground_truths, predictions, average='macro', zero_division=0)
-        
-        print(f"Valid: {len(predictions)}/{len(data)} | Acc: {accuracy:.3f} | Macro-F1: {f1:.3f}")
+        print(f"Valid: {len(predictions)}/{len(data)} | Acc: {accuracy:.3f}")
         
         per_class = {}
         for cls in classes:
-            cls_gt = [1 if g == cls else 0 for g in ground_truths]
-            cls_pred = [1 if p == cls else 0 for p in predictions]
+            cls_mask = [gt == cls for gt in ground_truths]
+            cls_correct = sum(1 for gt, pred in zip(ground_truths, predictions) if gt == cls and pred == cls)
+            cls_total = sum(cls_mask)
+            cls_acc = cls_correct / cls_total if cls_total > 0 else 0
             
-            if sum(cls_gt) > 0:  # Only if class exists in ground truth
-                per_class[f"stage_{cls}"] = {
-                    'precision': precision_score(cls_gt, cls_pred, zero_division=0),
-                    'recall': recall_score(cls_gt, cls_pred, zero_division=0),
-                    'f1_score': f1_score(cls_gt, cls_pred, zero_division=0),
-                    'support': sum(cls_gt)
-                }
+            per_class[f"stage_{cls}"] = {
+                'accuracy': cls_acc,
+                'count': cls_total,
+                'correct': cls_correct
+            }
         
         cm = confusion_matrix(ground_truths, predictions, labels=classes)
         
         results = {
             'overall_metrics': {
-                'accuracy': float(accuracy),
-                'macro_precision': float(precision),
-                'macro_recall': float(recall),
-                'macro_f1': float(f1)
+                'accuracy': float(accuracy)
             },
             'per_class_metrics': per_class,
             'confusion_matrix': {
