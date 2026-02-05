@@ -131,6 +131,12 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 
 ---
 
+## ⚠️ Disclaimer
+
+The information produced on this website is not intended for direct diagnostic use or medical decision-making without review and oversight by a clinical professional. Individuals should not change their health behavior solely on the basis of information produced on this website
+
+---
+
 ## 📧 Contact
 
 For questions or collaboration inquiries, please email:
