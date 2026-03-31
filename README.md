@@ -47,29 +47,6 @@ For detailed model documentation, see [models/README.md](models/README.md).
 
 ---
 
-## 📊 Data
-
-VOLMO evaluation data includes curated datasets across four task categories: binary classification, disease staging, image description, and clinical assessment.
-
-### Download Data
-
-```python
-from huggingface_hub import snapshot_download
-
-# Download evaluation datasets
-data_path = snapshot_download(
-    repo_id="Yale-BIDS-Chen/VOLMO-Evaluation-Data",
-    repo_type="dataset",
-    local_dir="./data"
-)
-```
-
-**Hugging Face Repository**: [Yale-BIDS-Chen/VOLMO-Evaluation-Data](https://huggingface.co/datasets/Yale-BIDS-Chen/VOLMO-Evaluation-Data)
-
-For detailed data documentation, see [data/README.md](data/README.md).
-
----
-
 ## 🚀 Quick Start
 
 ### Environment Setup
